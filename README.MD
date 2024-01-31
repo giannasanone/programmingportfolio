@@ -13,9 +13,16 @@ OOP graphical game using sound and images for a full user experience.
 
 [Source Code]()
 
-### Calculator
+### RandomWordApp
 OOP graphical app using graphics and keybord/mouse listeners full user experience
 
-![UserExperience]()
+![UserExperience](https://replit.com/@9720855/RandomWordApp)
+
+[Source Code]()
+
+### Guessing Game
+OOP graphical app using graphics and keybord/mouse listeners full user experience
+
+![UserExperience](https://replit.com/@9720855/Guessing-Game)
 
 [Source Code]()
