@@ -6,7 +6,7 @@
 
 ### Solomonder Affair
 OOP choose your own adventure game with interactive storylines
-![Gameplay](https://replit.com/@9615649/code?from=notifications#main.py)
+![Gameplay]()
 
 ## Individual Projects
 
