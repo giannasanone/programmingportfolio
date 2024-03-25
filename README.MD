@@ -4,7 +4,17 @@
 
 ## Group Project
 
+###Solomonder Affair
+OOP choose your own adventure game with interactive storylines
+![Gameplay](https://replit.com/@9615649/code?from=notifications#main.py)
+
 ## Individual Projects
+
+###SpanishTranslator
+OOP text based user input to translate 
+![Gameplay](https://replit.com/@9720855/SpanishTranslator)
+
+[Source Code]()
 
 ### SpaceGame
 OOP graphical game using sound and images for a full user experience.
