@@ -4,13 +4,13 @@
 
 ## Group Project
 
-###Solomonder Affair
+### Solomonder Affair
 OOP choose your own adventure game with interactive storylines
 ![Gameplay](https://replit.com/@9615649/code?from=notifications#main.py)
 
 ## Individual Projects
 
-###SpanishTranslator
+### SpanishTranslator
 OOP text based user input to translate 
 ![UserExperience](https://replit.com/@9720855/SpanishTranslator)
 
