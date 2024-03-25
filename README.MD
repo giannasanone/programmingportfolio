@@ -12,7 +12,7 @@ OOP choose your own adventure game with interactive storylines
 
 ### SpanishTranslator
 OOP text based user input to translate 
-![UserExperience](https://replit.com/@9720855/SpanishTranslator)
+![UserExperience]()
 
 [Source Code]()
 
