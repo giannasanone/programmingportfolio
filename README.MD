@@ -6,7 +6,7 @@
 
 ### Solomonder Affair
 OOP choose your own adventure game with interactive storylines
-![UserExpirence](Solomander Affair.png)
+![UserExpirence]()
 
 [Source Code]()
 
