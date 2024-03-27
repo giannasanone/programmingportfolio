@@ -37,9 +37,9 @@ OOP graphical app using graphics and keybord/mouse listeners full user experienc
 ### Guessing Game
 OOP graphical app using graphics and keybord/mouse listeners full user experience
 
-![UserExperience](https://replit.com/@9720855/Guessing-Game)
+![UserExperience](https://github.com/giannasanone/programmingportfolio/blob/main/images/GuessingGame.png?raw=true)
 
-[Source Code]()
+[Source Code](https://replit.com/@9720855/Guessing-Game)
 
 ### PigLatin
 OOP graphical app using graphics and keybord/mouse listeners full user experience
