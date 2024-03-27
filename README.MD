@@ -7,15 +7,16 @@
 ### Solomonder Affair
 OOP choose your own adventure game with interactive storylines
 
+![SolomanderAffair](https://github.com/giannasanone/programmingportfolio/blob/main/images/SolomanderAffair.png?raw=true)
 
-
-[Source Code]()
+[Source Code](https://replit.com/@9615649/code)
 
 ## Individual Projects
 
 ### SpanishTranslator
 OOP text based user input to translate 
-![UserExperience](https://replit.com/@9720855/SpanishTranslator)
+
+![]()
 
 [Source Code]()
 
