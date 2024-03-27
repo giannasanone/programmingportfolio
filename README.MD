@@ -44,6 +44,6 @@ OOP graphical app using graphics and keybord/mouse listeners full user experienc
 ### PigLatin
 OOP graphical app using graphics and keybord/mouse listeners full user experience
 
-![UserExperience](https://replit.com/@9720855/Piglatin#main.py)
+![UserExperience](https://github.com/giannasanone/programmingportfolio/blob/main/images/PigLatin.png?raw=true)
 
-[Source Code]()
+[Source Code](https://replit.com/@9720855/Piglatin)
