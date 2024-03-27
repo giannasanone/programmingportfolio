@@ -30,9 +30,9 @@ OOP graphical game using sound and images for a full user experience.
 ### RandomWordApp
 OOP graphical app using graphics and keybord/mouse listeners full user experience
 
-![UserExperience](https://replit.com/@9720855/RandomWordApp)
+![RandomWordApp](https://github.com/giannasanone/programmingportfolio/blob/main/images/RandomWordApp.png?raw=true)
 
-[Source Code]()
+[Source Code](https://replit.com/@9720855/RandomWordApp)
 
 ### Guessing Game
 OOP graphical app using graphics and keybord/mouse listeners full user experience
