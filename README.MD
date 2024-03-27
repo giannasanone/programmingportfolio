@@ -8,7 +8,6 @@
 OOP choose your own adventure game with interactive storylines
 
 
-
 [Source Code]()
 
 ## Individual Projects
